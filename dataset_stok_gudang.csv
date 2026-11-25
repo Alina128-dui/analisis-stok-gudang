@@ -1,0 +1,31 @@
+﻿kode_barang,nama_barang,kategori,satuan,stok_awal,barang_masuk,barang_keluar,stok_akhir,stok_minimum,status_stok
+BAT-007,Battery M Power 12V 7.2Ah,Battery,Unit,50,20,30,40,10,Aman
+BAT-065,Battery M Power 12V 65Ah,Battery,Unit,20,10,15,15,8,Aman
+CAP-001,Capacitor UPS,Sparepart,Pcs,15,5,12,8,5,Aman
+FAN-001,Fan UPS,Sparepart,Pcs,10,5,3,12,4,Aman
+PCB-001,Control Board UPS,Sparepart,Pcs,8,2,4,6,3,Aman
+IGB-001,IGBT Module,Sparepart,Pcs,12,4,10,6,5,Aman
+CAB-001,Battery Cable,Accessory,Set,40,10,25,25,10,Aman
+FUS-001,Fuse UPS,Sparepart,Pcs,30,10,18,22,8,Aman
+BAT-100,Battery 12V 100Ah,Battery,Unit,16,4,12,8,6,Aman
+FIL-001,Air Filter UPS,Sparepart,Pcs,14,6,8,12,5,Aman
+DIS-001,Display Panel UPS,Sparepart,Pcs,6,2,5,3,2,Aman
+REL-001,Relay UPS,Sparepart,Pcs,18,5,10,13,6,Aman
+CON-001,Connector Battery,Accessory,Pcs,25,10,20,15,8,Aman
+TRM-001,Terminal Block,Accessory,Pcs,20,5,7,18,6,Aman
+BAT-009,Battery 12V 9Ah,Battery,Unit,35,15,28,22,10,Aman
+CAP-002,Capacitor DC Link,Sparepart,Pcs,9,3,7,5,4,Aman
+FAN-002,Fan Cabinet,Sparepart,Pcs,7,2,6,3,3,Menipis
+CBL-001,Power Cable UPS,Accessory,Meter,22,8,12,18,7,Aman
+PCB-002,Power Board UPS,Sparepart,Pcs,5,1,4,2,2,Menipis
+FUS-002,Fuse Holder,Sparepart,Pcs,17,5,9,13,5,Aman
+BAT-012,Battery 12V 12Ah,Battery,Unit,28,12,20,20,9,Aman
+SNS-001,Temperature Sensor,Sparepart,Pcs,11,4,6,9,4,Aman
+SWI-001,Main Switch UPS,Sparepart,Pcs,13,3,8,8,5,Aman
+CON-002,Cable Connector,Accessory,Pcs,32,10,30,12,10,Aman
+BAT-026,Battery 12V 26Ah,Battery,Unit,12,3,9,6,5,Aman
+FAN-003,Cooling Fan 24V,Sparepart,Pcs,9,4,5,8,4,Aman
+CAP-003,Capacitor AC,Sparepart,Pcs,10,2,8,4,5,Menipis
+PCB-003,Interface Board,Sparepart,Pcs,4,2,5,1,3,Menipis
+CAB-002,Battery Rack Cable,Accessory,Set,18,6,10,14,6,Aman
+BAT-040,Battery 12V 40Ah,Battery,Unit,14,6,15,5,6,Menipis
